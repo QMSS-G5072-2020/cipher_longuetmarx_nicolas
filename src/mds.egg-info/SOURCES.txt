@@ -1,0 +1,8 @@
+README.rst
+setup.py
+src/mds/__init__.py
+src/mds.egg-info/PKG-INFO
+src/mds.egg-info/SOURCES.txt
+src/mds.egg-info/dependency_links.txt
+src/mds.egg-info/requires.txt
+src/mds.egg-info/top_level.txt
