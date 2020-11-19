@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "cipher_nkd2120"
-version = "3.12"
+version = "3.13"
 description = "Package for mds2020"
 authors = ["Nicolas Longuet Marx <nkd2120@columbia.edu>"]
 license = "MIT"
